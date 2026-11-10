@@ -1,9 +1,0 @@
-{
-  "entity.villager.ambient": {"replace": true, "sounds": []},
-  "entity.villager.celebrate": {"replace": true, "sounds": []},
-  "entity.villager.death": {"replace": true, "sounds": []},
-  "entity.villager.hurt": {"replace": true, "sounds": []},
-  "entity.villager.no": {"replace": true, "sounds": []},
-  "entity.villager.trade": {"replace": true, "sounds": []},
-  "entity.villager.yes": {"replace": true, "sounds": []}
-}
